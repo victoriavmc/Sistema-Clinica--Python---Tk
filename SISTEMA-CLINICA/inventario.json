@@ -1,0 +1,121 @@
+[
+    {
+        "codBarras": "926659",
+        "farmacoUtensilios": "Guantes de latex",
+        "cantidadExistente": 80,
+        "cantidadMin": 20,
+        "cantidadMax": 100
+    },
+    {
+        "codBarras": "832582",
+        "farmacoUtensilios": "Paracetamol",
+        "cantidadExistente": 180,
+        "cantidadMin": 70,
+        "cantidadMax": 300
+    },
+    {
+        "codBarras": "733483",
+        "farmacoUtensilios": "Jeringas Desechables",
+        "cantidadExistente": 100,
+        "cantidadMin": 40,
+        "cantidadMax": 200
+    },
+    {
+        "codBarras": "934585",
+        "farmacoUtensilios": "Batas de Laboratorio",
+        "cantidadExistente": 120,
+        "cantidadMin": 30,
+        "cantidadMax": 220
+    },
+    {
+        "codBarras": "132581",
+        "farmacoUtensilios": "Mascarillas Quirurgicas",
+        "cantidadExistente": 90,
+        "cantidadMin": 20,
+        "cantidadMax": 250
+    },
+    {
+        "codBarras": "235589",
+        "farmacoUtensilios": "Agujas Hipodermicas",
+        "cantidadExistente": 130,
+        "cantidadMin": 60,
+        "cantidadMax": 300
+    },
+    {
+        "codBarras": "434815",
+        "farmacoUtensilios": "Solucion Salina",
+        "cantidadExistente": 200,
+        "cantidadMin": 80,
+        "cantidadMax": 350
+    },
+    {
+        "codBarras": "135792",
+        "farmacoUtensilios": "Esparadrapo",
+        "cantidadExistente": 45,
+        "cantidadMin": 10,
+        "cantidadMax": 80
+    },
+    {
+        "codBarras": "246813",
+        "farmacoUtensilios": "Termometro Digital",
+        "cantidadExistente": 60,
+        "cantidadMin": 30,
+        "cantidadMax": 100
+    },
+    {
+        "codBarras": "987654",
+        "farmacoUtensilios": "Vendas Elasticas",
+        "cantidadExistente": 70,
+        "cantidadMin": 25,
+        "cantidadMax": 120
+    },
+    {
+        "codBarras": "112233",
+        "farmacoUtensilios": "Gasas Esteriles",
+        "cantidadExistente": 50,
+        "cantidadMin": 15,
+        "cantidadMax": 90
+    },
+    {
+        "codBarras": "314159",
+        "farmacoUtensilios": "Tijeras de Vendaje",
+        "cantidadExistente": 35,
+        "cantidadMin": 12,
+        "cantidadMax": 70
+    },
+    {
+        "codBarras": "271828",
+        "farmacoUtensilios": "Pinzas Hemostaticas",
+        "cantidadExistente": 25,
+        "cantidadMin": 8,
+        "cantidadMax": 50
+    },
+    {
+        "codBarras": "161803",
+        "farmacoUtensilios": "Sondas Nasogastricas",
+        "cantidadExistente": 40,
+        "cantidadMin": 18,
+        "cantidadMax": 80
+    },
+    {
+        "codBarras": "777777",
+        "farmacoUtensilios": "Gel Antibacterial",
+        "cantidadExistente": 55,
+        "cantidadMin": 22,
+        "cantidadMax": 100
+    },
+    {
+        "codBarras": "999999",
+        "farmacoUtensilios": "Gafas de Proteccion",
+        "cantidadExistente": 48,
+        "cantidadMin": 16,
+        "cantidadMax": 90
+    },
+    {
+        "codBarras": "555555",
+        "farmacoUtensilios": "Canulas Endotraqueales",
+        "cantidadExistente": 33,
+        "cantidadMin": 11,
+        "cantidadMax": 70
+    }
+]

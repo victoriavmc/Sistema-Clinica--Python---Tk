@@ -1,0 +1,152 @@
+[
+    {
+        "nombre": "Kevin Antonio",
+        "apellido": "Schneider",
+        "edad": "25",
+        "cuilCuit": "20402112696",
+        "telefono": "44090292",
+        "sexo": "Masculino",
+        "titulo": "Lic en Enfermeria",
+        "especialidad": "Enfermeria Clinica y Familiar"
+    },
+    {
+        "nombre": "Santiago Nicolas",
+        "apellido": "Aranda",
+        "edad": "19",
+        "cuilCuit": "20459010185",
+        "telefono": "44873391",
+        "sexo": "Masculino",
+        "titulo": "Medico",
+        "especialidad": "Dermatologia"
+    },
+    {
+        "nombre": "Cris Sofia",
+        "apellido": "Dominguez",
+        "edad": "20",
+        "cuilCuit": "20444657164",
+        "telefono": "44651921",
+        "sexo": "Femenino",
+        "titulo": "Lic en Enfermeria",
+        "especialidad": "Unidad Terapia Intensiva Adulto"
+    },
+    {
+        "nombre": "Lourdes Antonella",
+        "apellido": "Bordon Sbardella",
+        "edad": "23",
+        "cuilCuit": "20429939483",
+        "telefono": "44273439",
+        "sexo": "Femenino",
+        "titulo": "Lic en Enfermeria",
+        "especialidad": "Enfermeria Clinica y Familiar"
+    },
+    {
+        "nombre": "Victoria Valentina",
+        "apellido": "Maidana Corti",
+        "edad": "21",
+        "cuilCuit": "20439387901",
+        "telefono": "44254556",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Sanchez",
+        "edad": "72",
+        "cuilCuit": "20439387902",
+        "telefono": "12345678",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Gomez",
+        "edad": "29",
+        "cuilCuit": "20439387903",
+        "telefono": "23456789",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Roberto",
+        "apellido": "Fernandez",
+        "edad": "50",
+        "cuilCuit": "20439387904",
+        "telefono": "34567890",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Marta",
+        "apellido": "Lopez",
+        "edad": "65",
+        "cuilCuit": "20439387905",
+        "telefono": "45678901",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Julio",
+        "apellido": "Gonzalez",
+        "edad": "39",
+        "cuilCuit": "20439387906",
+        "telefono": "56789012",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Patricia",
+        "apellido": "Rodriguez",
+        "edad": "28",
+        "cuilCuit": "20439387907",
+        "telefono": "67890123",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Fernando",
+        "apellido": "Sanchez",
+        "edad": "57",
+        "cuilCuit": "20439387908",
+        "telefono": "78901234",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Martinez",
+        "edad": "32",
+        "cuilCuit": "20439387909",
+        "telefono": "89012345",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Manuel",
+        "apellido": "Gomez",
+        "edad": "44",
+        "cuilCuit": "20439387911",
+        "telefono": "90123456",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    },
+    {
+        "nombre": "Susana",
+        "apellido": "Fernandez",
+        "edad": "46",
+        "cuilCuit": "20439387921",
+        "telefono": "98765432",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatria"
+    }
+]

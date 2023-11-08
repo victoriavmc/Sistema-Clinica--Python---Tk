@@ -1,0 +1,26 @@
+[
+    {
+        "usuario": "Santiago Aranda",
+        "contrasenia": "prueba02",
+        "correo": "santiago.aranda.81@gmail.com",
+        "pin": 640992
+    },
+    {
+        "usuario": "Sofi",
+        "contrasenia": "prueba03",
+        "correo": "crissofia.2003@gmail.com",
+        "pin": 282171
+    },
+    {
+        "usuario": "Victoriavmc",
+        "contrasenia": "QuieroPepsi",
+        "correo": "victoriavmcortitrabajos@gmail.com",
+        "pin": 160202
+    },
+    {
+        "usuario": "Lourde",
+        "contrasenia": "prueba04",
+        "correo": "luli.antonella19@gmail.com",
+        "pin": 995215
+    }
+]
